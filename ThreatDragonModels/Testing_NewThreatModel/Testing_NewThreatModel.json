@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "1",
+  "released_at": "2026-09-23",
+  "summary": {
+    "title": "Testing_NewThreatModel",
+    "owner": "Zailan",
+    "description": "Hentam",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Testing",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Testing"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Azim",
+    "threatTop": 0
+  }
+}
